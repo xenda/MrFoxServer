@@ -6,7 +6,6 @@ gem 'rails', '3.0.7'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
-
 # Use unicorn as the web server
 # gem 'unicorn'
 
@@ -37,3 +36,4 @@ gem "jquery-rails"
 gem "bson_ext"
 gem "mongoid", ">= 2.0.0.beta.19"
 gem "rspec-rails", ">= 2.0.1", :group => [:development, :test]
+gem 'inherited_resources'
